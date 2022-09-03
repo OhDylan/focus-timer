@@ -1,11 +1,6 @@
-# Sample Snack app
+# Focus Timer App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This is a timer app where you can create the task to focus, and see what tasks have been achieved in the past.
+It is created with the tutorial of ZTM React Native course.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="328" alt="Screenshot 2022-09-03 at 1 07 19 PM" src="https://user-images.githubusercontent.com/49362324/188256694-97042bc4-4a57-4e65-b9e8-2e2a6da9ef5e.png">
